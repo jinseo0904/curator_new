@@ -1,3 +1,5 @@
+models/contrast.pt
+models/orientation.pt
 curator_log.txt
 segmentation_log.txt
 curator.code-workspace
